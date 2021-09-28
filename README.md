@@ -1,3 +1,3 @@
 Yifei's User Page
 # Lab1
-Favorite programming language is Java
+Favorite programming language is Java, C++
